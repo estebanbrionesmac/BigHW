@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('google-api-services-datastore-protobuf-demos-all-deps-v1beta2-rev1-4.0.0.jar'))
